@@ -8,4 +8,4 @@
 - User-Friendly Design
   Ensure the playbook is easy to navigate with a clear table of contents and hyperlinks.
 - Include Real-World Scenarios
-  Provide practical examples of successful collaborations or challenges and they were overcome.
+  Provide practical examples of successful collaborations or challenges and they were overcome..
